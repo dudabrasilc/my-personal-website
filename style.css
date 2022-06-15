@@ -1,4 +1,16 @@
 body {
-    background: lightpink;
+    background-image: url(./images/background.webp);
     text-align: center;
+}
+
+h1 {
+    color: #80ffff;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+
+h3 {
+    color: #ccffff;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
